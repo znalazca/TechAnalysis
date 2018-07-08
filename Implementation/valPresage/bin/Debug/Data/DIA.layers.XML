@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layer>
+  <layer plugin="Line" count="1" chart="false" uid="8eadf5fa-573e-4ecf-b716-89aced481a85">
+    <x1>2007-12-10T00:00:00</x1>
+    <y1>138.2673</y1>
+    <x2>2008-02-15T00:00:00</x2>
+    <y2>125.911</y2>
+    <color>-16777216</color>
+  </layer>
+  <layer plugin="Line" count="2" chart="false" uid="a8b57675-5a14-4487-9cbc-5c1eb099a74d">
+    <x1>2007-08-16T00:00:00</x1>
+    <y1>125.378</y1>
+    <x2>2007-10-22T00:00:00</x2>
+    <y2>133.9063</y2>
+    <color>-16777216</color>
+  </layer>
+  <layer plugin="Text" count="3" chart="false" uid="9175319e-2d4a-421b-9659-ab62b84ce51a">
+    <text>Trand test</text>
+    <color>-16777216</color>
+    <x>2007-09-06T00:00:00</x>
+    <y>126.2986</y>
+  </layer>
+</layer>

@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ClassDiagram Zoom="1" MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="valPresage.FormChart" Collapsed="False">
+    <Position X="0.5" Y="0.5" Width="3.483576" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="valPresage.valPresageConfig" Collapsed="False">
+    <Position X="0.5" Y="10.2" Width="2.267668" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="DataHostServices.DataServices" Collapsed="False">
+    <Position X="0.5" Y="15.3" Width="2.393136" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="DataTypes.AvailablePlugins" Collapsed="False">
+    <Position X="0.5" Y="18.3" Width="1.577375" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="DataTypes.AvailablePlugin" Collapsed="False">
+    <Position X="0.5" Y="19.7" Width="1.850871" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="valPresage.FormAbout" Collapsed="False">
+    <Position X="0.5" Y="0.5" Width="1.78443" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="valPresage.FormCommonTools" Collapsed="False">
+    <Position X="0.5" Y="24.6" Width="2.581501" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="valPresage.FormConfig" Collapsed="False">
+    <Position X="0.5" Y="28" Width="2.175876" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="valPresage.FormConfigTools" Collapsed="False">
+    <Position X="0.5" Y="38.9" Width="2.331422" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="valPresage.FormDefaultDataSource" Collapsed="False">
+    <Position X="0.5" Y="42.2" Width="3.022575" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="valPresage.FormHttp" Collapsed="False">
+    <Position X="0.5" Y="45.3" Width="1.78443" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="valPresage.FormSymbols" Collapsed="False">
+    <Position X="0.5" Y="49.6" Width="2.60277" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="GraphicsHostServices.GraphicsServices" Collapsed="False">
+    <Position X="0.5" Y="53.7" Width="2.393136" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="GraphicsTypes.AvailablePlugins" Collapsed="False">
+    <Position X="0.5" Y="56.9" Width="1.577375" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="GraphicsTypes.AvailablePlugin" Collapsed="False">
+    <Position X="0.5" Y="58.3" Width="2.065607" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="valPresage.MainForm" Collapsed="False">
+    <Position X="0.5" Y="60.4" Width="3.339523" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="valPresage.Program" Collapsed="False">
+    <Position X="0.5" Y="68.4" Width="1.444186" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+</ClassDiagram>

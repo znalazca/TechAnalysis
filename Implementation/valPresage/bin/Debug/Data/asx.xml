@@ -1,0 +1,867 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quotes>
+  <quote type="EOD">
+    <date>2003-10-22T17:00:00</date>
+    <open>2.2</open>
+    <close>2.25</close>
+    <high>2.27</high>
+    <low>2.15</low>
+    <volume>28859100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-10-23T17:00:00</date>
+    <open>2.25</open>
+    <close>2.2</close>
+    <high>2.25</high>
+    <low>2.2</low>
+    <volume>7942070</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-10-26T16:00:00</date>
+    <open>2.2</open>
+    <close>2.16</close>
+    <high>2.2</high>
+    <low>2.16</low>
+    <volume>2957960</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-10-27T16:00:00</date>
+    <open>2.15</open>
+    <close>2.13</close>
+    <high>2.16</high>
+    <low>2.1</low>
+    <volume>1875630</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-10-28T16:00:00</date>
+    <open>2.12</open>
+    <close>2.12</close>
+    <high>2.13</high>
+    <low>2.11</low>
+    <volume>1638610</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-10-29T16:00:00</date>
+    <open>2.12</open>
+    <close>2.12</close>
+    <high>2.13</high>
+    <low>2.12</low>
+    <volume>992206</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-10-30T16:00:00</date>
+    <open>2.12</open>
+    <close>2.12</close>
+    <high>2.13</high>
+    <low>2.11</low>
+    <volume>607660</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-02T16:00:00</date>
+    <open>2.14</open>
+    <close>2.16</close>
+    <high>2.16</high>
+    <low>2.13</low>
+    <volume>416467</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-03T16:00:00</date>
+    <open>2.15</open>
+    <close>2.15</close>
+    <high>2.17</high>
+    <low>2.14</low>
+    <volume>322063</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-04T16:00:00</date>
+    <open>2.14</open>
+    <close>2.12</close>
+    <high>2.15</high>
+    <low>2.12</low>
+    <volume>519158</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-05T16:00:00</date>
+    <open>2.12</open>
+    <close>2.11</close>
+    <high>2.13</high>
+    <low>2.11</low>
+    <volume>1710010</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-06T16:00:00</date>
+    <open>2.12</open>
+    <close>2.12</close>
+    <high>2.12</high>
+    <low>2.11</low>
+    <volume>1157040</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-09T16:00:00</date>
+    <open>2.12</open>
+    <close>2.19</close>
+    <high>2.2</high>
+    <low>2.12</low>
+    <volume>694342</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-10T16:00:00</date>
+    <open>2.17</open>
+    <close>2.18</close>
+    <high>2.19</high>
+    <low>2.16</low>
+    <volume>481938</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-11T16:00:00</date>
+    <open>2.19</open>
+    <close>2.17</close>
+    <high>2.19</high>
+    <low>2.17</low>
+    <volume>529080</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-12T16:00:00</date>
+    <open>2.16</open>
+    <close>2.16</close>
+    <high>2.17</high>
+    <low>2.15</low>
+    <volume>102304</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-13T16:00:00</date>
+    <open>2.16</open>
+    <close>2.16</close>
+    <high>2.17</high>
+    <low>2.15</low>
+    <volume>1298980</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-16T16:00:00</date>
+    <open>2.15</open>
+    <close>2.15</close>
+    <high>2.16</high>
+    <low>2.15</low>
+    <volume>199497</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-17T16:00:00</date>
+    <open>2.15</open>
+    <close>2.15</close>
+    <high>2.16</high>
+    <low>2.15</low>
+    <volume>962087</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-18T16:00:00</date>
+    <open>2.15</open>
+    <close>2.13</close>
+    <high>2.15</high>
+    <low>2.11</low>
+    <volume>161224</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-19T16:00:00</date>
+    <open>2.14</open>
+    <close>2.14</close>
+    <high>2.15</high>
+    <low>2.13</low>
+    <volume>328917</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-20T16:00:00</date>
+    <open>2.13</open>
+    <close>2.11</close>
+    <high>2.14</high>
+    <low>2.11</low>
+    <volume>1149870</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-23T16:00:00</date>
+    <open>2.15</open>
+    <close>2.1</close>
+    <high>2.15</high>
+    <low>2.1</low>
+    <volume>151047</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-24T16:00:00</date>
+    <open>2.11</open>
+    <close>2.12</close>
+    <high>2.13</high>
+    <low>2.11</low>
+    <volume>294019</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-25T16:00:00</date>
+    <open>2.12</open>
+    <close>2.09</close>
+    <high>2.12</high>
+    <low>2.07</low>
+    <volume>127703</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-26T16:00:00</date>
+    <open>2.08</open>
+    <close>2.09</close>
+    <high>2.09</high>
+    <low>2.06</low>
+    <volume>180497</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-27T16:00:00</date>
+    <open>2.08</open>
+    <close>2.07</close>
+    <high>2.09</high>
+    <low>2.04</low>
+    <volume>900945</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-11-30T16:00:00</date>
+    <open>2.06</open>
+    <close>2</close>
+    <high>2.06</high>
+    <low>1.98</low>
+    <volume>2511580</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-01T16:00:00</date>
+    <open>2</open>
+    <close>2.02</close>
+    <high>2.04</high>
+    <low>2</low>
+    <volume>700512</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-02T16:00:00</date>
+    <open>2.03</open>
+    <close>2.04</close>
+    <high>2.06</high>
+    <low>2.01</low>
+    <volume>225952</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-03T16:00:00</date>
+    <open>2.05</open>
+    <close>2.08</close>
+    <high>2.09</high>
+    <low>2.05</low>
+    <volume>412150</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-04T16:00:00</date>
+    <open>2.1</open>
+    <close>2.08</close>
+    <high>2.1</high>
+    <low>2.08</low>
+    <volume>1201620</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-07T16:00:00</date>
+    <open>2.11</open>
+    <close>2.1</close>
+    <high>2.13</high>
+    <low>2.1</low>
+    <volume>857738</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-08T16:00:00</date>
+    <open>2.12</open>
+    <close>2.1</close>
+    <high>2.15</high>
+    <low>2.09</low>
+    <volume>974466</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-09T16:00:00</date>
+    <open>2.11</open>
+    <close>2.1</close>
+    <high>2.12</high>
+    <low>2.1</low>
+    <volume>313790</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-10T16:00:00</date>
+    <open>2.11</open>
+    <close>2.11</close>
+    <high>2.13</high>
+    <low>2.11</low>
+    <volume>98018</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-11T16:00:00</date>
+    <open>2.13</open>
+    <close>2.13</close>
+    <high>2.16</high>
+    <low>2.13</low>
+    <volume>695692</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-14T16:00:00</date>
+    <open>2.16</open>
+    <close>2.25</close>
+    <high>2.25</high>
+    <low>2.16</low>
+    <volume>603413</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-15T16:00:00</date>
+    <open>2.25</open>
+    <close>2.2</close>
+    <high>2.27</high>
+    <low>2.2</low>
+    <volume>170126</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-16T16:00:00</date>
+    <open>2.2</open>
+    <close>2.18</close>
+    <high>2.2</high>
+    <low>2.16</low>
+    <volume>175635</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-17T16:00:00</date>
+    <open>2.2</open>
+    <close>2.2</close>
+    <high>2.24</high>
+    <low>2.18</low>
+    <volume>172018</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-18T16:00:00</date>
+    <open>2.24</open>
+    <close>2.23</close>
+    <high>2.25</high>
+    <low>2.23</low>
+    <volume>414466</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-21T16:00:00</date>
+    <open>2.23</open>
+    <close>2.33</close>
+    <high>2.36</high>
+    <low>2.23</low>
+    <volume>1033800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-22T16:00:00</date>
+    <open>2.34</open>
+    <close>2.34</close>
+    <high>2.37</high>
+    <low>2.33</low>
+    <volume>414269</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-23T16:00:00</date>
+    <open>2.34</open>
+    <close>2.28</close>
+    <high>2.34</high>
+    <low>2.28</low>
+    <volume>43449</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-28T16:00:00</date>
+    <open>2.27</open>
+    <close>2.3</close>
+    <high>2.35</high>
+    <low>2.25</low>
+    <volume>808493</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-29T16:00:00</date>
+    <open>2.33</open>
+    <close>2.3</close>
+    <high>2.34</high>
+    <low>2.3</low>
+    <volume>118392</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2003-12-30T16:00:00</date>
+    <open>2.3</open>
+    <close>2.31</close>
+    <high>2.32</high>
+    <low>2.27</low>
+    <volume>38701</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-01T16:00:00</date>
+    <open>2.31</open>
+    <close>2.3</close>
+    <high>2.31</high>
+    <low>2.3</low>
+    <volume>39391</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-04T16:00:00</date>
+    <open>2.32</open>
+    <close>2.32</close>
+    <high>2.32</high>
+    <low>2.3</low>
+    <volume>102553</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-05T16:00:00</date>
+    <open>2.33</open>
+    <close>2.34</close>
+    <high>2.36</high>
+    <low>2.33</low>
+    <volume>182445</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-06T16:00:00</date>
+    <open>2.34</open>
+    <close>2.31</close>
+    <high>2.34</high>
+    <low>2.3</low>
+    <volume>93615</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-07T16:00:00</date>
+    <open>2.31</open>
+    <close>2.31</close>
+    <high>2.33</high>
+    <low>2.3</low>
+    <volume>277660</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-08T16:00:00</date>
+    <open>2.32</open>
+    <close>2.32</close>
+    <high>2.33</high>
+    <low>2.3</low>
+    <volume>133586</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-11T16:00:00</date>
+    <open>2.3</open>
+    <close>2.34</close>
+    <high>2.34</high>
+    <low>2.29</low>
+    <volume>95611</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-12T16:00:00</date>
+    <open>2.33</open>
+    <close>2.32</close>
+    <high>2.34</high>
+    <low>2.3</low>
+    <volume>213210</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-13T16:00:00</date>
+    <open>2.33</open>
+    <close>2.33</close>
+    <high>2.33</high>
+    <low>2.31</low>
+    <volume>87866</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-14T16:00:00</date>
+    <open>2.33</open>
+    <close>2.33</close>
+    <high>2.34</high>
+    <low>2.32</low>
+    <volume>153354</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-15T16:00:00</date>
+    <open>2.32</open>
+    <close>2.31</close>
+    <high>2.34</high>
+    <low>2.31</low>
+    <volume>270317</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-18T16:00:00</date>
+    <open>2.32</open>
+    <close>2.31</close>
+    <high>2.34</high>
+    <low>2.3</low>
+    <volume>611958</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-19T16:00:00</date>
+    <open>2.31</open>
+    <close>2.32</close>
+    <high>2.34</high>
+    <low>2.31</low>
+    <volume>303270</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-20T16:00:00</date>
+    <open>2.33</open>
+    <close>2.33</close>
+    <high>2.34</high>
+    <low>2.32</low>
+    <volume>351439</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-21T16:00:00</date>
+    <open>2.33</open>
+    <close>2.32</close>
+    <high>2.33</high>
+    <low>2.31</low>
+    <volume>114096</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-22T16:00:00</date>
+    <open>2.32</open>
+    <close>2.34</close>
+    <high>2.34</high>
+    <low>2.32</low>
+    <volume>185381</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-26T16:00:00</date>
+    <open>2.34</open>
+    <close>2.37</close>
+    <high>2.39</high>
+    <low>2.34</low>
+    <volume>283286</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-27T16:00:00</date>
+    <open>2.42</open>
+    <close>2.35</close>
+    <high>2.42</high>
+    <low>2.35</low>
+    <volume>259467</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-28T16:00:00</date>
+    <open>2.35</open>
+    <close>2.33</close>
+    <high>2.36</high>
+    <low>2.31</low>
+    <volume>728816</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-01-29T16:00:00</date>
+    <open>2.32</open>
+    <close>2.3</close>
+    <high>2.35</high>
+    <low>2.3</low>
+    <volume>187145</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-01T16:00:00</date>
+    <open>2.32</open>
+    <close>2.25</close>
+    <high>2.32</high>
+    <low>2.24</low>
+    <volume>267460</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-02T16:00:00</date>
+    <open>2.25</open>
+    <close>2.24</close>
+    <high>2.25</high>
+    <low>2.2</low>
+    <volume>226846</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-03T16:00:00</date>
+    <open>2.24</open>
+    <close>2.34</close>
+    <high>2.34</high>
+    <low>2.2</low>
+    <volume>70673</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-04T16:00:00</date>
+    <open>2.34</open>
+    <close>2.29</close>
+    <high>2.34</high>
+    <low>2.28</low>
+    <volume>78104</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-05T16:00:00</date>
+    <open>2.3</open>
+    <close>2.3</close>
+    <high>2.31</high>
+    <low>2.3</low>
+    <volume>32504</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-08T16:00:00</date>
+    <open>2.3</open>
+    <close>2.29</close>
+    <high>2.3</high>
+    <low>2.29</low>
+    <volume>40805</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-09T16:00:00</date>
+    <open>2.3</open>
+    <close>2.3</close>
+    <high>2.3</high>
+    <low>2.29</low>
+    <volume>43131</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-10T16:00:00</date>
+    <open>2.3</open>
+    <close>2.31</close>
+    <high>2.32</high>
+    <low>2.3</low>
+    <volume>103542</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-11T16:00:00</date>
+    <open>2.31</open>
+    <close>2.39</close>
+    <high>2.39</high>
+    <low>2.3</low>
+    <volume>73995</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-12T16:00:00</date>
+    <open>2.39</open>
+    <close>2.36</close>
+    <high>2.39</high>
+    <low>2.35</low>
+    <volume>345250</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-15T16:00:00</date>
+    <open>2.37</open>
+    <close>2.39</close>
+    <high>2.39</high>
+    <low>2.36</low>
+    <volume>44182</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-16T16:00:00</date>
+    <open>2.39</open>
+    <close>2.43</close>
+    <high>2.43</high>
+    <low>2.39</low>
+    <volume>303605</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-17T16:00:00</date>
+    <open>2.44</open>
+    <close>2.46</close>
+    <high>2.46</high>
+    <low>2.43</low>
+    <volume>238403</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-18T16:00:00</date>
+    <open>2.44</open>
+    <close>2.4</close>
+    <high>2.45</high>
+    <low>2.27</low>
+    <volume>627202</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-19T16:00:00</date>
+    <open>2.39</open>
+    <close>2.36</close>
+    <high>2.4</high>
+    <low>2.35</low>
+    <volume>531169</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-22T16:00:00</date>
+    <open>2.37</open>
+    <close>2.35</close>
+    <high>2.37</high>
+    <low>2.35</low>
+    <volume>851091</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-23T16:00:00</date>
+    <open>2.36</open>
+    <close>2.36</close>
+    <high>2.36</high>
+    <low>2.34</low>
+    <volume>432450</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-24T16:00:00</date>
+    <open>2.36</open>
+    <close>2.35</close>
+    <high>2.36</high>
+    <low>2.34</low>
+    <volume>335388</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-25T16:00:00</date>
+    <open>2.36</open>
+    <close>2.3</close>
+    <high>2.36</high>
+    <low>2.26</low>
+    <volume>233483</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-26T16:00:00</date>
+    <open>2.31</open>
+    <close>2.28</close>
+    <high>2.31</high>
+    <low>2.28</low>
+    <volume>130417</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-02-29T16:00:00</date>
+    <open>2.3</open>
+    <close>2.3</close>
+    <high>2.36</high>
+    <low>2.29</low>
+    <volume>107894</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-03-01T16:00:00</date>
+    <open>2.3</open>
+    <close>2.3</close>
+    <high>2.32</high>
+    <low>2.3</low>
+    <volume>204795</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-03-02T16:00:00</date>
+    <open>2.3</open>
+    <close>2.27</close>
+    <high>2.3</high>
+    <low>2.27</low>
+    <volume>87493</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-03-03T16:00:00</date>
+    <open>2.29</open>
+    <close>2.28</close>
+    <high>2.29</high>
+    <low>2.27</low>
+    <volume>454592</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-03-04T16:00:00</date>
+    <open>2.28</open>
+    <close>2.28</close>
+    <high>2.28</high>
+    <low>2.27</low>
+    <volume>88654</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-03-07T16:00:00</date>
+    <open>2.28</open>
+    <close>2.28</close>
+    <high>2.28</high>
+    <low>2.27</low>
+    <volume>62144</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-03-08T16:00:00</date>
+    <open>2.27</open>
+    <close>2.22</close>
+    <high>2.27</high>
+    <low>2.21</low>
+    <volume>154286</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-03-09T16:00:00</date>
+    <open>2.25</open>
+    <close>2.25</close>
+    <high>2.25</high>
+    <low>2.23</low>
+    <volume>184503</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-03-10T16:00:00</date>
+    <open>2.25</open>
+    <close>2.24</close>
+    <high>2.25</high>
+    <low>2.24</low>
+    <volume>151054</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-03-11T16:00:00</date>
+    <open>2.25</open>
+    <close>2.25</close>
+    <high>2.27</high>
+    <low>2.23</low>
+    <volume>80501</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-03-14T16:00:00</date>
+    <open>2.25</open>
+    <close>2.25</close>
+    <high>2.25</high>
+    <low>2.24</low>
+    <volume>55148</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-03-15T16:00:00</date>
+    <open>2.23</open>
+    <close>2.21</close>
+    <high>2.23</high>
+    <low>2.2</low>
+    <volume>574151</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-03-16T16:00:00</date>
+    <open>2.24</open>
+    <close>2.2</close>
+    <high>2.25</high>
+    <low>2.2</low>
+    <volume>77342</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-03-17T16:00:00</date>
+    <open>2.2</open>
+    <close>2.2</close>
+    <high>2.22</high>
+    <low>2.2</low>
+    <volume>407286</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-03-18T16:00:00</date>
+    <open>2.23</open>
+    <close>2.3</close>
+    <high>2.3</high>
+    <low>2.23</low>
+    <volume>251454</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-03-21T16:00:00</date>
+    <open>2.3</open>
+    <close>2.25</close>
+    <high>2.3</high>
+    <low>2.25</low>
+    <volume>74821</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-03-22T16:00:00</date>
+    <open>2.25</open>
+    <close>2.2</close>
+    <high>2.25</high>
+    <low>2.2</low>
+    <volume>127139</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-03-23T16:00:00</date>
+    <open>2.2</open>
+    <close>2.18</close>
+    <high>2.2</high>
+    <low>2.18</low>
+    <volume>1468360</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-03-24T16:00:00</date>
+    <open>2.17</open>
+    <close>2.16</close>
+    <high>2.17</high>
+    <low>2.16</low>
+    <volume>199240</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2004-03-25T16:00:00</date>
+    <open>2.16</open>
+    <close>2.14</close>
+    <high>2.17</high>
+    <low>2.13</low>
+    <volume>222053</volume>
+  </quote>
+</quotes>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layer>
+  <layer plugin="SMA" count="1" chart="false" uid="00000000-0000-0000-0000-000000000000">
+    <period>20</period>
+  </layer>
+</layer>

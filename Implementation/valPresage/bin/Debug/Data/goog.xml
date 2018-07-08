@@ -1,0 +1,2011 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quotes>
+  <quote type="EOD">
+    <date>2006-01-03T00:00:00</date>
+    <open>422.52</open>
+    <close>435.23</close>
+    <high>435.67</high>
+    <low>418.22</low>
+    <volume>13121200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-01-04T00:00:00</date>
+    <open>443.9</open>
+    <close>445.24</close>
+    <high>448.96</high>
+    <low>439.75</low>
+    <volume>15286400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-01-05T00:00:00</date>
+    <open>446</open>
+    <close>451.24</close>
+    <high>451.55</high>
+    <low>441.5</low>
+    <volume>10808300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-01-06T00:00:00</date>
+    <open>456.87</open>
+    <close>465.66</close>
+    <high>470.5</high>
+    <low>453.24</low>
+    <volume>17756900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-01-09T00:00:00</date>
+    <open>466.41</open>
+    <close>466.9</close>
+    <high>473.4</high>
+    <low>460.94</low>
+    <volume>12791900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-01-10T00:00:00</date>
+    <open>464.42</open>
+    <close>469.76</close>
+    <high>470.25</high>
+    <low>462.04</low>
+    <volume>9097100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-01-11T00:00:00</date>
+    <open>471.27</open>
+    <close>471.63</close>
+    <high>475.11</high>
+    <low>469.18</low>
+    <volume>9007400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-01-12T00:00:00</date>
+    <open>473.72</open>
+    <close>463.63</close>
+    <high>474.99</high>
+    <low>461.5</low>
+    <volume>10125300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-01-13T00:00:00</date>
+    <open>464.31</open>
+    <close>466.25</close>
+    <high>466.89</high>
+    <low>461.61</low>
+    <volume>7656600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-01-17T00:00:00</date>
+    <open>463.06</open>
+    <close>467.11</close>
+    <high>469.9</high>
+    <low>462.53</low>
+    <volume>8270300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-01-18T00:00:00</date>
+    <open>447.3</open>
+    <close>444.91</close>
+    <high>457.36</high>
+    <low>443.25</low>
+    <volume>20485700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-01-19T00:00:00</date>
+    <open>451.17</open>
+    <close>436.45</close>
+    <high>453.49</high>
+    <low>433</low>
+    <volume>14537300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-01-20T00:00:00</date>
+    <open>438.7</open>
+    <close>399.46</close>
+    <high>440.03</high>
+    <low>394.74</low>
+    <volume>41116700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-01-23T00:00:00</date>
+    <open>407.38</open>
+    <close>427.5</close>
+    <high>428.39</high>
+    <low>405.73</low>
+    <volume>22741400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-01-24T00:00:00</date>
+    <open>436.03</open>
+    <close>443.03</close>
+    <high>444.95</high>
+    <low>434.48</low>
+    <volume>15464600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-01-25T00:00:00</date>
+    <open>451.26</open>
+    <close>433</close>
+    <high>454.23</high>
+    <low>429.22</low>
+    <volume>18739800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-01-26T00:00:00</date>
+    <open>439.54</open>
+    <close>434.27</close>
+    <high>439.99</high>
+    <low>423.56</low>
+    <volume>12926100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-01-27T00:00:00</date>
+    <open>435</open>
+    <close>433.49</close>
+    <high>438.22</high>
+    <low>428.98</low>
+    <volume>8452200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-01-30T00:00:00</date>
+    <open>429.23</open>
+    <close>426.82</close>
+    <high>433.28</high>
+    <low>425</low>
+    <volume>8588900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-01-31T00:00:00</date>
+    <open>430.57</open>
+    <close>432.66</close>
+    <high>439.6</high>
+    <low>423.97</low>
+    <volume>22066000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-02-01T00:00:00</date>
+    <open>389.03</open>
+    <close>401.78</close>
+    <high>402</high>
+    <low>387.52</low>
+    <volume>27122500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-02-02T00:00:00</date>
+    <open>403.82</open>
+    <close>396.04</close>
+    <high>406.5</high>
+    <low>395.98</low>
+    <volume>11807700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-02-03T00:00:00</date>
+    <open>393.62</open>
+    <close>381.55</close>
+    <high>393.9</high>
+    <low>372.57</low>
+    <volume>18281800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-02-06T00:00:00</date>
+    <open>385.31</open>
+    <close>385.1</close>
+    <high>389.9</high>
+    <low>379.56</low>
+    <volume>8940400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-02-07T00:00:00</date>
+    <open>382.99</open>
+    <close>367.92</close>
+    <high>383.7</high>
+    <low>363.35</low>
+    <volume>16630200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-02-08T00:00:00</date>
+    <open>368.48</open>
+    <close>369.08</close>
+    <high>370.69</high>
+    <low>354.67</low>
+    <volume>20804100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-02-09T00:00:00</date>
+    <open>371.2</open>
+    <close>358.77</close>
+    <high>374.4</high>
+    <low>356.11</low>
+    <volume>11912400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-02-10T00:00:00</date>
+    <open>361.95</open>
+    <close>362.61</close>
+    <high>364.5</high>
+    <low>353.14</low>
+    <volume>15223500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-02-13T00:00:00</date>
+    <open>346.64</open>
+    <close>345.7</close>
+    <high>350.6</high>
+    <low>341.89</low>
+    <volume>19717800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-02-14T00:00:00</date>
+    <open>345.33</open>
+    <close>343.32</close>
+    <high>351.69</high>
+    <low>342.4</low>
+    <volume>14654000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-02-15T00:00:00</date>
+    <open>341.27</open>
+    <close>342.38</close>
+    <high>346</high>
+    <low>337.83</low>
+    <volume>12947000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-02-16T00:00:00</date>
+    <open>345.67</open>
+    <close>366.46</close>
+    <high>367</high>
+    <low>344.49</low>
+    <volume>21315500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-02-17T00:00:00</date>
+    <open>369.86</open>
+    <close>368.75</close>
+    <high>372.14</high>
+    <low>363.62</low>
+    <volume>14320200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-02-21T00:00:00</date>
+    <open>366.44</open>
+    <close>366.59</close>
+    <high>373.54</high>
+    <low>365.11</low>
+    <volume>8686000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-02-22T00:00:00</date>
+    <open>367.15</open>
+    <close>365.49</close>
+    <high>368.95</high>
+    <low>363.86</low>
+    <volume>6476200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-02-23T00:00:00</date>
+    <open>365.61</open>
+    <close>378.07</close>
+    <high>381.24</high>
+    <low>365.39</low>
+    <volume>12551600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-02-24T00:00:00</date>
+    <open>377.3</open>
+    <close>377.4</close>
+    <high>380.07</high>
+    <low>373.49</low>
+    <volume>6484300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-02-27T00:00:00</date>
+    <open>381.27</open>
+    <close>390.38</close>
+    <high>391.7</high>
+    <low>380.28</low>
+    <volume>10212200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-02-28T00:00:00</date>
+    <open>393.2</open>
+    <close>362.62</close>
+    <high>397.54</high>
+    <low>338.51</low>
+    <volume>39437600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-01T00:00:00</date>
+    <open>368.56</open>
+    <close>364.8</close>
+    <high>369.45</high>
+    <low>361.3</low>
+    <volume>12061200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-02T00:00:00</date>
+    <open>364.28</open>
+    <close>376.45</close>
+    <high>381.1</high>
+    <low>362.2</low>
+    <volume>18330300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-03T00:00:00</date>
+    <open>384.3</open>
+    <close>378.18</close>
+    <high>387.24</high>
+    <low>375.76</low>
+    <volume>11962000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-06T00:00:00</date>
+    <open>380.91</open>
+    <close>368.1</close>
+    <high>383.4</high>
+    <low>367.14</low>
+    <volume>8939700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-07T00:00:00</date>
+    <open>365.02</open>
+    <close>364.45</close>
+    <high>368.45</high>
+    <low>358.15</low>
+    <volume>10378800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-08T00:00:00</date>
+    <open>353.93</open>
+    <close>353.88</close>
+    <high>360.03</high>
+    <low>350.54</low>
+    <volume>11745600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-09T00:00:00</date>
+    <open>355.39</open>
+    <close>343</close>
+    <high>358.53</high>
+    <low>341.5</low>
+    <volume>13910400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-10T00:00:00</date>
+    <open>343.5</open>
+    <close>337.5</close>
+    <high>344.5</high>
+    <low>331.55</low>
+    <volume>19325600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-13T00:00:00</date>
+    <open>340.93</open>
+    <close>337.06</close>
+    <high>346.1</high>
+    <low>335.45</low>
+    <volume>13642400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-14T00:00:00</date>
+    <open>337.14</open>
+    <close>351.16</close>
+    <high>352.37</high>
+    <low>332.62</low>
+    <volume>18450700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-15T00:00:00</date>
+    <open>350.77</open>
+    <close>344.5</close>
+    <high>352.3</high>
+    <low>340.53</low>
+    <volume>12768800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-16T00:00:00</date>
+    <open>348.61</open>
+    <close>338.77</close>
+    <high>348.75</high>
+    <low>337.9</low>
+    <volume>10016700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-17T00:00:00</date>
+    <open>338.8</open>
+    <close>339.79</close>
+    <high>341.78</high>
+    <low>334.93</low>
+    <volume>8551700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-20T00:00:00</date>
+    <open>342.34</open>
+    <close>348.19</close>
+    <high>350.09</high>
+    <low>341.54</low>
+    <volume>10407600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-21T00:00:00</date>
+    <open>350.01</open>
+    <close>339.92</close>
+    <high>351.66</high>
+    <low>339.08</low>
+    <volume>9831100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-22T00:00:00</date>
+    <open>339.75</open>
+    <close>340.22</close>
+    <high>344.1</high>
+    <low>337.5</low>
+    <volume>7596000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-23T00:00:00</date>
+    <open>342.35</open>
+    <close>341.89</close>
+    <high>345.75</high>
+    <low>340.2</low>
+    <volume>7434700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-24T00:00:00</date>
+    <open>368.62</open>
+    <close>365.8</close>
+    <high>370.09</high>
+    <low>362.51</low>
+    <volume>15180600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-27T00:00:00</date>
+    <open>367.09</open>
+    <close>369.69</close>
+    <high>371.71</high>
+    <low>365</low>
+    <volume>7023700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-28T00:00:00</date>
+    <open>371.71</open>
+    <close>377.2</close>
+    <high>377.86</high>
+    <low>371.17</low>
+    <volume>8945800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-29T00:00:00</date>
+    <open>379.94</open>
+    <close>394.98</close>
+    <high>399</high>
+    <low>379.51</low>
+    <volume>19027500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-30T00:00:00</date>
+    <open>389.19</open>
+    <close>388.44</close>
+    <high>393.5</high>
+    <low>383.61</low>
+    <volume>14711700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-03-31T00:00:00</date>
+    <open>388.74</open>
+    <close>390</close>
+    <high>391.87</high>
+    <low>384.03</low>
+    <volume>36521400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-04-03T00:00:00</date>
+    <open>389.53</open>
+    <close>389.7</close>
+    <high>392.47</high>
+    <low>387.93</low>
+    <volume>8122700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-04-04T00:00:00</date>
+    <open>389.9</open>
+    <close>404.34</close>
+    <high>404.9</high>
+    <low>388.14</low>
+    <volume>15715700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-04-05T00:00:00</date>
+    <open>408.2</open>
+    <close>407.99</close>
+    <high>414.57</high>
+    <low>402.82</low>
+    <volume>13410500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-04-06T00:00:00</date>
+    <open>406.49</open>
+    <close>411.18</close>
+    <high>413.89</high>
+    <low>405.43</low>
+    <volume>8598500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-04-07T00:00:00</date>
+    <open>412.41</open>
+    <close>406.16</close>
+    <high>412.85</high>
+    <low>404.02</low>
+    <volume>7025900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-04-10T00:00:00</date>
+    <open>407.08</open>
+    <close>416.38</close>
+    <high>417.17</high>
+    <low>405.25</low>
+    <volume>9320100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-04-11T00:00:00</date>
+    <open>416.42</open>
+    <close>409.66</close>
+    <high>419.1</high>
+    <low>406.22</low>
+    <volume>11107200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-04-12T00:00:00</date>
+    <open>409</open>
+    <close>408.95</close>
+    <high>411.33</high>
+    <low>405.19</low>
+    <volume>6017000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-04-13T00:00:00</date>
+    <open>408.63</open>
+    <close>402.16</close>
+    <high>409.76</high>
+    <low>400.5</low>
+    <volume>6552900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-04-17T00:00:00</date>
+    <open>403.45</open>
+    <close>406.82</close>
+    <high>412.5</high>
+    <low>400.84</low>
+    <volume>8259500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-04-18T00:00:00</date>
+    <open>407.93</open>
+    <close>404.24</close>
+    <high>409.83</high>
+    <low>401.5</low>
+    <volume>8137600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-04-19T00:00:00</date>
+    <open>412.57</open>
+    <close>410.5</close>
+    <high>413.64</high>
+    <low>406.73</low>
+    <volume>6781700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-04-20T00:00:00</date>
+    <open>411.01</open>
+    <close>415</close>
+    <high>416</high>
+    <low>408.2</low>
+    <volume>12271500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-04-21T00:00:00</date>
+    <open>448.9</open>
+    <close>437.1</close>
+    <high>450.72</high>
+    <low>436.17</low>
+    <volume>22551300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-04-24T00:00:00</date>
+    <open>439.4</open>
+    <close>440.5</close>
+    <high>444.7</high>
+    <low>436.52</low>
+    <volume>8836400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-04-25T00:00:00</date>
+    <open>439.63</open>
+    <close>427.16</close>
+    <high>441.04</high>
+    <low>426</low>
+    <volume>9569000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-04-26T00:00:00</date>
+    <open>427.74</open>
+    <close>425.97</close>
+    <high>430.04</high>
+    <low>423.53</low>
+    <volume>7277800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-04-27T00:00:00</date>
+    <open>422.91</open>
+    <close>420.03</close>
+    <high>426.91</high>
+    <low>419.39</low>
+    <volume>8337900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-04-28T00:00:00</date>
+    <open>418.63</open>
+    <close>417.94</close>
+    <high>425.73</high>
+    <low>416.3</low>
+    <volume>7421300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-01T00:00:00</date>
+    <open>418.47</open>
+    <close>398.9</close>
+    <high>419.44</high>
+    <low>398.55</low>
+    <volume>10361200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-02T00:00:00</date>
+    <open>401.08</open>
+    <close>394.8</close>
+    <high>402.49</high>
+    <low>388.4</low>
+    <volume>13104300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-03T00:00:00</date>
+    <open>396.35</open>
+    <close>394.17</close>
+    <high>401.5</high>
+    <low>390.88</low>
+    <volume>8072200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-04T00:00:00</date>
+    <open>395.03</open>
+    <close>394.75</close>
+    <high>398.87</high>
+    <low>392.21</low>
+    <volume>4652000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-05T00:00:00</date>
+    <open>397.6</open>
+    <close>394.3</close>
+    <high>400.68</high>
+    <low>391.78</low>
+    <volume>6065000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-08T00:00:00</date>
+    <open>395.11</open>
+    <close>394.78</close>
+    <high>397.12</high>
+    <low>390.05</low>
+    <volume>5118600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-09T00:00:00</date>
+    <open>395.7</open>
+    <close>408.8</close>
+    <high>409</high>
+    <low>393.75</low>
+    <volume>9140600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-10T00:00:00</date>
+    <open>408.31</open>
+    <close>402.98</close>
+    <high>411.71</high>
+    <low>401.86</low>
+    <volume>6187200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-11T00:00:00</date>
+    <open>403.42</open>
+    <close>387</close>
+    <high>404.71</high>
+    <low>384.98</low>
+    <volume>8892800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-12T00:00:00</date>
+    <open>383.54</open>
+    <close>374.13</close>
+    <high>384.87</high>
+    <low>373.55</low>
+    <volume>10087600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-15T00:00:00</date>
+    <open>375.93</open>
+    <close>376.2</close>
+    <high>380.15</high>
+    <low>368.25</low>
+    <volume>8590100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-16T00:00:00</date>
+    <open>375.99</open>
+    <close>371.3</close>
+    <high>376.86</high>
+    <low>369.89</low>
+    <volume>6491100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-17T00:00:00</date>
+    <open>370.61</open>
+    <close>374.5</close>
+    <high>379.84</high>
+    <low>370.22</low>
+    <volume>10643800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-18T00:00:00</date>
+    <open>378.78</open>
+    <close>370.99</close>
+    <high>381.81</high>
+    <low>370.71</low>
+    <volume>5835000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-19T00:00:00</date>
+    <open>373.28</open>
+    <close>370.02</close>
+    <high>374.5</high>
+    <low>360.57</low>
+    <volume>11398200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-22T00:00:00</date>
+    <open>367.85</open>
+    <close>370.95</close>
+    <high>373.03</high>
+    <low>365.25</low>
+    <volume>8604400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-23T00:00:00</date>
+    <open>374.21</open>
+    <close>375.58</close>
+    <high>383.88</high>
+    <low>373.56</low>
+    <volume>8983000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-24T00:00:00</date>
+    <open>377.35</open>
+    <close>381.25</close>
+    <high>383.44</high>
+    <low>371.61</low>
+    <volume>9553800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-25T00:00:00</date>
+    <open>379.08</open>
+    <close>382.99</close>
+    <high>383</high>
+    <low>372.31</low>
+    <volume>8194600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-26T00:00:00</date>
+    <open>384.55</open>
+    <close>381.35</close>
+    <high>385.88</high>
+    <low>380.03</low>
+    <volume>3667000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-30T00:00:00</date>
+    <open>378.28</open>
+    <close>371.94</close>
+    <high>381</high>
+    <low>371.45</low>
+    <volume>4316000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-05-31T00:00:00</date>
+    <open>373.8</open>
+    <close>371.82</close>
+    <high>378.25</high>
+    <low>366.78</low>
+    <volume>7981300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-01T00:00:00</date>
+    <open>373.54</open>
+    <close>382.62</close>
+    <high>382.99</high>
+    <low>371.6</low>
+    <volume>6278000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-02T00:00:00</date>
+    <open>386.84</open>
+    <close>379.44</close>
+    <high>387.08</high>
+    <low>377.45</low>
+    <volume>6386400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-05T00:00:00</date>
+    <open>376.18</open>
+    <close>374.44</close>
+    <high>381.45</high>
+    <low>374.15</low>
+    <volume>5558500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-06T00:00:00</date>
+    <open>376.58</open>
+    <close>389.99</close>
+    <high>390</high>
+    <low>376.3</low>
+    <volume>10259800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-07T00:00:00</date>
+    <open>393.24</open>
+    <close>386.51</close>
+    <high>394.86</high>
+    <low>386.5</low>
+    <volume>8911300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-08T00:00:00</date>
+    <open>387.75</open>
+    <close>393.3</close>
+    <high>394.27</high>
+    <low>378.59</low>
+    <volume>10359500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-09T00:00:00</date>
+    <open>392.19</open>
+    <close>386.57</close>
+    <high>395.43</high>
+    <low>385.35</low>
+    <volume>6157500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-12T00:00:00</date>
+    <open>388.34</open>
+    <close>381.54</close>
+    <high>390.49</high>
+    <low>381</low>
+    <volume>5019100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-13T00:00:00</date>
+    <open>380.9</open>
+    <close>386.52</close>
+    <high>387</high>
+    <low>378.12</low>
+    <volume>7659100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-14T00:00:00</date>
+    <open>389.83</open>
+    <close>384.39</close>
+    <high>391.1</high>
+    <low>378.52</low>
+    <volume>7772000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-15T00:00:00</date>
+    <open>386.62</open>
+    <close>391</close>
+    <high>392.25</high>
+    <low>383</low>
+    <volume>6785700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-16T00:00:00</date>
+    <open>389.1</open>
+    <close>390.7</close>
+    <high>390.93</high>
+    <low>388</low>
+    <volume>5304600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-19T00:00:00</date>
+    <open>390.85</open>
+    <close>388.14</close>
+    <high>394.8</high>
+    <low>386.98</low>
+    <volume>7633100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-20T00:00:00</date>
+    <open>388.03</open>
+    <close>387.17</close>
+    <high>391.87</high>
+    <low>386.51</low>
+    <volume>4039900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-21T00:00:00</date>
+    <open>391.06</open>
+    <close>402.13</close>
+    <high>404</high>
+    <low>389.75</low>
+    <volume>8744400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-22T00:00:00</date>
+    <open>401.58</open>
+    <close>399.95</close>
+    <high>406</high>
+    <low>388</low>
+    <volume>5911900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-23T00:00:00</date>
+    <open>402.76</open>
+    <close>404.86</close>
+    <high>409.75</high>
+    <low>400.74</low>
+    <volume>5314800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-26T00:00:00</date>
+    <open>406.75</open>
+    <close>404.22</close>
+    <high>408.3</high>
+    <low>403.25</low>
+    <volume>3551200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-27T00:00:00</date>
+    <open>405.71</open>
+    <close>402.32</close>
+    <high>408</high>
+    <low>401.01</low>
+    <volume>4107100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-28T00:00:00</date>
+    <open>404.01</open>
+    <close>406.11</close>
+    <high>406.48</high>
+    <low>401.13</low>
+    <volume>3710500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-29T00:00:00</date>
+    <open>407.99</open>
+    <close>417.81</close>
+    <high>418.2</high>
+    <low>405.82</low>
+    <volume>6658200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-06-30T00:00:00</date>
+    <open>415.6</open>
+    <close>419.33</close>
+    <high>419.33</high>
+    <low>412.33</low>
+    <volume>6258000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-03T00:00:00</date>
+    <open>420.04</open>
+    <close>423.2</close>
+    <high>423.77</high>
+    <low>419.45</low>
+    <volume>2156700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-05T00:00:00</date>
+    <open>421.52</open>
+    <close>421.46</close>
+    <high>422.8</high>
+    <low>415.64</low>
+    <volume>4985600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-06T00:00:00</date>
+    <open>423.38</open>
+    <close>423.19</close>
+    <high>425.38</high>
+    <low>421.98</low>
+    <volume>3687100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-07T00:00:00</date>
+    <open>426.05</open>
+    <close>420.45</close>
+    <high>427.89</high>
+    <low>415.88</low>
+    <volume>6041900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-10T00:00:00</date>
+    <open>423.44</open>
+    <close>418.2</close>
+    <high>425.23</high>
+    <low>416.38</low>
+    <volume>4436400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-11T00:00:00</date>
+    <open>418.51</open>
+    <close>424.56</close>
+    <high>425.05</high>
+    <low>413.03</low>
+    <volume>5971300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-12T00:00:00</date>
+    <open>422.09</open>
+    <close>417.25</close>
+    <high>422.74</high>
+    <low>416.73</low>
+    <volume>4906700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-13T00:00:00</date>
+    <open>414</open>
+    <close>408.83</close>
+    <high>418.34</high>
+    <low>406.83</low>
+    <volume>6924500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-14T00:00:00</date>
+    <open>410.33</open>
+    <close>403.5</close>
+    <high>411.49</high>
+    <low>398.61</low>
+    <volume>7552100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-17T00:00:00</date>
+    <open>404.63</open>
+    <close>407.89</close>
+    <high>411</high>
+    <low>403.72</low>
+    <volume>5811900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-18T00:00:00</date>
+    <open>409.75</open>
+    <close>403.05</close>
+    <high>410.57</high>
+    <low>397.74</low>
+    <volume>8536800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-19T00:00:00</date>
+    <open>395.01</open>
+    <close>399</close>
+    <high>401.14</high>
+    <low>394.66</low>
+    <volume>8518500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-20T00:00:00</date>
+    <open>404.28</open>
+    <close>387.12</close>
+    <high>404.44</high>
+    <low>385.66</low>
+    <volume>12538700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-21T00:00:00</date>
+    <open>386.14</open>
+    <close>390.11</close>
+    <high>391.75</high>
+    <low>377.69</low>
+    <volume>11754600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-24T00:00:00</date>
+    <open>392.82</open>
+    <close>390.9</close>
+    <high>393.89</high>
+    <low>381.21</low>
+    <volume>8086100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-25T00:00:00</date>
+    <open>385.02</open>
+    <close>389.36</close>
+    <high>391.31</high>
+    <low>383.8</low>
+    <volume>5761100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-26T00:00:00</date>
+    <open>388.2</open>
+    <close>385.5</close>
+    <high>391.91</high>
+    <low>383</low>
+    <volume>5531900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-27T00:00:00</date>
+    <open>387.37</open>
+    <close>382.4</close>
+    <high>387.49</high>
+    <low>377.95</low>
+    <volume>5641100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-28T00:00:00</date>
+    <open>382</open>
+    <close>388.12</close>
+    <high>389.56</high>
+    <low>381.73</low>
+    <volume>4083600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-07-31T00:00:00</date>
+    <open>388</open>
+    <close>386.6</close>
+    <high>389.17</high>
+    <low>383.31</low>
+    <volume>4595300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-01T00:00:00</date>
+    <open>385.11</open>
+    <close>375.51</close>
+    <high>385.77</high>
+    <low>375.51</low>
+    <volume>5463200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-02T00:00:00</date>
+    <open>375.6</open>
+    <close>367.23</close>
+    <high>377.17</high>
+    <low>365.2</low>
+    <volume>7097800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-03T00:00:00</date>
+    <open>364.98</open>
+    <close>375.39</close>
+    <high>377.91</high>
+    <low>363.36</low>
+    <volume>6327000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-04T00:00:00</date>
+    <open>379.56</open>
+    <close>373.85</close>
+    <high>380.68</high>
+    <low>371.75</low>
+    <volume>5095200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-07T00:00:00</date>
+    <open>371.5</open>
+    <close>377.95</close>
+    <high>379.73</high>
+    <low>371.15</low>
+    <volume>3946900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-08T00:00:00</date>
+    <open>382.82</open>
+    <close>381</close>
+    <high>384.5</high>
+    <low>379.09</low>
+    <volume>5743200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-09T00:00:00</date>
+    <open>382.8</open>
+    <close>376.94</close>
+    <high>384.68</high>
+    <low>376.36</low>
+    <volume>4311000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-10T00:00:00</date>
+    <open>373.88</open>
+    <close>374.2</close>
+    <high>377.67</high>
+    <low>372.46</low>
+    <volume>4261900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-11T00:00:00</date>
+    <open>374.4</open>
+    <close>368.5</close>
+    <high>375.28</high>
+    <low>368</low>
+    <volume>3766500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-14T00:00:00</date>
+    <open>371.5</open>
+    <close>369.43</close>
+    <high>375.13</high>
+    <low>368.67</low>
+    <volume>4968300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-15T00:00:00</date>
+    <open>374.11</open>
+    <close>380.97</close>
+    <high>381.67</high>
+    <low>372.6</low>
+    <volume>6698200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-16T00:00:00</date>
+    <open>383.48</open>
+    <close>387.72</close>
+    <high>388.45</high>
+    <low>382.12</low>
+    <volume>5853200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-17T00:00:00</date>
+    <open>386.39</open>
+    <close>385.8</close>
+    <high>390</high>
+    <low>383.92</low>
+    <volume>5080200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-18T00:00:00</date>
+    <open>386.31</open>
+    <close>383.36</close>
+    <high>387.09</high>
+    <low>380.75</low>
+    <volume>4952200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-21T00:00:00</date>
+    <open>378.1</open>
+    <close>377.3</close>
+    <high>379</high>
+    <low>375.22</low>
+    <volume>4023300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-22T00:00:00</date>
+    <open>377.73</open>
+    <close>378.29</close>
+    <high>379.26</high>
+    <low>374.84</low>
+    <volume>4164100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-23T00:00:00</date>
+    <open>377.64</open>
+    <close>373.43</close>
+    <high>378.27</high>
+    <low>372.66</low>
+    <volume>3642300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-24T00:00:00</date>
+    <open>374.44</open>
+    <close>373.73</close>
+    <high>376.4</high>
+    <low>372.26</low>
+    <volume>3482500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-25T00:00:00</date>
+    <open>373.08</open>
+    <close>373.26</close>
+    <high>375.32</high>
+    <low>372.5</low>
+    <volume>2466700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-28T00:00:00</date>
+    <open>375.61</open>
+    <close>380.95</close>
+    <high>380.95</high>
+    <low>375</low>
+    <volume>4164000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-29T00:00:00</date>
+    <open>380.78</open>
+    <close>378.95</close>
+    <high>382.32</high>
+    <low>377.2</low>
+    <volume>4460000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-30T00:00:00</date>
+    <open>379.21</open>
+    <close>380.75</close>
+    <high>384.65</high>
+    <low>378.51</low>
+    <volume>4044400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-08-31T00:00:00</date>
+    <open>381.49</open>
+    <close>378.53</close>
+    <high>382.15</high>
+    <low>378.2</low>
+    <volume>2959900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-01T00:00:00</date>
+    <open>380.99</open>
+    <close>378.6</close>
+    <high>381.28</high>
+    <low>377.19</low>
+    <volume>2672900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-05T00:00:00</date>
+    <open>379.87</open>
+    <close>384.36</close>
+    <high>385.4</high>
+    <low>377.44</low>
+    <volume>4074300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-06T00:00:00</date>
+    <open>382.1</open>
+    <close>380.14</close>
+    <high>383.19</high>
+    <low>379.66</low>
+    <volume>3724100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-07T00:00:00</date>
+    <open>379.39</open>
+    <close>378.49</close>
+    <high>381.75</high>
+    <low>377.4</low>
+    <volume>3842000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-08T00:00:00</date>
+    <open>376.72</open>
+    <close>377.85</close>
+    <high>380.79</high>
+    <low>376.72</low>
+    <volume>3083400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-11T00:00:00</date>
+    <open>378.26</open>
+    <close>384.09</close>
+    <high>384.69</high>
+    <low>377.77</low>
+    <volume>4529200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-12T00:00:00</date>
+    <open>385</open>
+    <close>391.9</close>
+    <high>392.73</high>
+    <low>384.88</low>
+    <volume>5442200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-13T00:00:00</date>
+    <open>395.15</open>
+    <close>406.57</close>
+    <high>406.76</high>
+    <low>395.1</low>
+    <volume>9768200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-14T00:00:00</date>
+    <open>404.3</open>
+    <close>403.98</close>
+    <high>406.28</high>
+    <low>401.93</low>
+    <volume>5366100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-15T00:00:00</date>
+    <open>407.48</open>
+    <close>409.88</close>
+    <high>410.05</high>
+    <low>406.74</low>
+    <volume>7838200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-18T00:00:00</date>
+    <open>410</open>
+    <close>414.69</close>
+    <high>418.69</high>
+    <low>409.47</low>
+    <volume>7106700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-19T00:00:00</date>
+    <open>415.46</open>
+    <close>403.81</close>
+    <high>415.49</high>
+    <low>392.74</low>
+    <volume>14292900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-20T00:00:00</date>
+    <open>407.1</open>
+    <close>397</close>
+    <high>407.39</high>
+    <low>394.62</low>
+    <volume>9147800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-21T00:00:00</date>
+    <open>400.3</open>
+    <close>406.85</close>
+    <high>408.45</high>
+    <low>399.86</low>
+    <volume>10692100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-22T00:00:00</date>
+    <open>404.98</open>
+    <close>403.78</close>
+    <high>407.45</high>
+    <low>401.36</low>
+    <volume>4649600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-25T00:00:00</date>
+    <open>405.58</open>
+    <close>403.98</close>
+    <high>409.45</high>
+    <low>402.5</low>
+    <volume>5737300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-26T00:00:00</date>
+    <open>405.5</open>
+    <close>406.87</close>
+    <high>407.68</high>
+    <low>401.77</low>
+    <volume>5289400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-27T00:00:00</date>
+    <open>406.3</open>
+    <close>402.92</close>
+    <high>411.22</high>
+    <low>402.37</low>
+    <volume>5876700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-28T00:00:00</date>
+    <open>404.08</open>
+    <close>403.58</close>
+    <high>406.98</high>
+    <low>400.54</low>
+    <volume>5107400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-09-29T00:00:00</date>
+    <open>405.13</open>
+    <close>401.9</close>
+    <high>405.62</high>
+    <low>401.41</low>
+    <volume>3310900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-02T00:00:00</date>
+    <open>401.9</open>
+    <close>401.44</close>
+    <high>406</high>
+    <low>400.8</low>
+    <volume>3651900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-03T00:00:00</date>
+    <open>401.29</open>
+    <close>404.04</close>
+    <high>406.46</high>
+    <low>398.19</low>
+    <volume>5464700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-04T00:00:00</date>
+    <open>404.97</open>
+    <close>415.7</close>
+    <high>415.77</high>
+    <low>403.05</low>
+    <volume>6661800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-05T00:00:00</date>
+    <open>414.7</open>
+    <close>411.81</close>
+    <high>418.24</high>
+    <low>410.86</low>
+    <volume>5789800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-06T00:00:00</date>
+    <open>410.22</open>
+    <close>420.5</close>
+    <high>421.91</high>
+    <low>409.75</low>
+    <volume>7336500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-09T00:00:00</date>
+    <open>424.8</open>
+    <close>429</close>
+    <high>431.95</high>
+    <low>423.42</low>
+    <volume>7583300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-10T00:00:00</date>
+    <open>431.56</open>
+    <close>426.65</close>
+    <high>437.85</high>
+    <low>422.39</low>
+    <volume>9788600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-11T00:00:00</date>
+    <open>425.02</open>
+    <close>426.5</close>
+    <high>429.91</high>
+    <low>423.76</low>
+    <volume>5635400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-12T00:00:00</date>
+    <open>428.56</open>
+    <close>427.44</close>
+    <high>429.68</high>
+    <low>424</low>
+    <volume>4844000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-13T00:00:00</date>
+    <open>427.76</open>
+    <close>427.3</close>
+    <high>429.5</high>
+    <low>425.56</low>
+    <volume>3622500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-16T00:00:00</date>
+    <open>427.7</open>
+    <close>421.75</close>
+    <high>429.2</high>
+    <low>421.34</low>
+    <volume>4319400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-17T00:00:00</date>
+    <open>420.3</open>
+    <close>420.64</close>
+    <high>423.75</high>
+    <low>416.7</low>
+    <volume>5211000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-18T00:00:00</date>
+    <open>422.99</open>
+    <close>419.31</close>
+    <high>424.75</high>
+    <low>417.5</low>
+    <volume>6017300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-19T00:00:00</date>
+    <open>420.23</open>
+    <close>426.06</close>
+    <high>429.5</high>
+    <low>419.57</low>
+    <volume>11503500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-20T00:00:00</date>
+    <open>458.99</open>
+    <close>459.67</close>
+    <high>460.1</high>
+    <low>453.59</low>
+    <volume>11647900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-23T00:00:00</date>
+    <open>462.28</open>
+    <close>480.78</close>
+    <high>484.64</high>
+    <low>460.37</low>
+    <volume>15104500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-24T00:00:00</date>
+    <open>476.28</open>
+    <close>473.31</close>
+    <high>477.86</high>
+    <low>471.41</low>
+    <volume>8660200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-25T00:00:00</date>
+    <open>477.49</open>
+    <close>486.6</close>
+    <high>488.5</high>
+    <low>475.11</low>
+    <volume>9187500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-26T00:00:00</date>
+    <open>487.68</open>
+    <close>485.1</close>
+    <high>491.96</high>
+    <low>484.2</low>
+    <volume>7031700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-27T00:00:00</date>
+    <open>483.9</open>
+    <close>475.2</close>
+    <high>485.24</high>
+    <low>472.49</low>
+    <volume>6604000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-30T00:00:00</date>
+    <open>474.82</open>
+    <close>476.57</close>
+    <high>480.46</high>
+    <low>470.01</low>
+    <volume>6563100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-10-31T00:00:00</date>
+    <open>478.06</open>
+    <close>476.39</close>
+    <high>482.16</high>
+    <low>473.84</low>
+    <volume>6285400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-01T00:00:00</date>
+    <open>478.76</open>
+    <close>467.5</close>
+    <high>479.13</high>
+    <low>465.26</low>
+    <volume>5426300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-02T00:00:00</date>
+    <open>467.5</open>
+    <close>469.91</close>
+    <high>473.73</high>
+    <low>466.38</low>
+    <volume>5236700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-03T00:00:00</date>
+    <open>472.23</open>
+    <close>471.8</close>
+    <high>473.75</high>
+    <low>465.06</low>
+    <volume>4907700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-06T00:00:00</date>
+    <open>473.77</open>
+    <close>476.95</close>
+    <high>479.66</high>
+    <low>472.33</low>
+    <volume>4991500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-07T00:00:00</date>
+    <open>476.95</open>
+    <close>472.57</close>
+    <high>479.02</high>
+    <low>471.77</low>
+    <volume>4897100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-08T00:00:00</date>
+    <open>470.35</open>
+    <close>475</close>
+    <high>481.74</high>
+    <low>468.6</low>
+    <volume>7965000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-09T00:00:00</date>
+    <open>476.5</open>
+    <close>472.63</close>
+    <high>479.49</high>
+    <low>471.86</low>
+    <volume>4879200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-10T00:00:00</date>
+    <open>473.78</open>
+    <close>473.55</close>
+    <high>474.72</high>
+    <low>470.29</low>
+    <volume>2796700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-13T00:00:00</date>
+    <open>474.9</open>
+    <close>481.03</close>
+    <high>481.17</high>
+    <low>474.14</low>
+    <volume>4341900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-14T00:00:00</date>
+    <open>480.7</open>
+    <close>489.3</close>
+    <high>489.95</high>
+    <low>480.5</low>
+    <volume>7223400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-15T00:00:00</date>
+    <open>493.43</open>
+    <close>491.93</close>
+    <high>499.85</high>
+    <low>491.93</low>
+    <volume>8370700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-16T00:00:00</date>
+    <open>495</open>
+    <close>495.9</close>
+    <high>497.68</high>
+    <low>492.56</low>
+    <volume>5092600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-17T00:00:00</date>
+    <open>493.25</open>
+    <close>498.79</close>
+    <high>499.66</high>
+    <low>493</low>
+    <volume>5511000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-20T00:00:00</date>
+    <open>498.4</open>
+    <close>495.05</close>
+    <high>498.4</high>
+    <low>492.65</low>
+    <volume>5124500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-21T00:00:00</date>
+    <open>496.54</open>
+    <close>509.65</close>
+    <high>510</high>
+    <low>495.83</low>
+    <volume>8427500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-22T00:00:00</date>
+    <open>510.97</open>
+    <close>508.01</close>
+    <high>513</high>
+    <low>505.78</low>
+    <volume>4500700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-24T00:00:00</date>
+    <open>504.5</open>
+    <close>505</close>
+    <high>507.5</high>
+    <low>504</low>
+    <volume>1732700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-27T00:00:00</date>
+    <open>501.37</open>
+    <close>484.75</close>
+    <high>501.78</high>
+    <low>484.75</low>
+    <volume>7324700</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-28T00:00:00</date>
+    <open>481.13</open>
+    <close>489.5</close>
+    <high>489.86</high>
+    <low>477.03</low>
+    <volume>7797600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-29T00:00:00</date>
+    <open>494.24</open>
+    <close>484.65</close>
+    <high>494.74</high>
+    <low>482.25</low>
+    <volume>6315300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-11-30T00:00:00</date>
+    <open>484.19</open>
+    <close>484.81</close>
+    <high>490.4</high>
+    <low>481.55</low>
+    <volume>5577500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-01T00:00:00</date>
+    <open>485.98</open>
+    <close>480.8</close>
+    <high>488.39</high>
+    <low>478.5</low>
+    <volume>5631400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-04T00:00:00</date>
+    <open>483</open>
+    <close>484.85</close>
+    <high>487.43</high>
+    <low>479.35</low>
+    <volume>4899900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-05T00:00:00</date>
+    <open>487.4</open>
+    <close>487</close>
+    <high>489.44</high>
+    <low>484.89</low>
+    <volume>4103000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-06T00:00:00</date>
+    <open>486.96</open>
+    <close>488.71</close>
+    <high>492.4</high>
+    <low>484.52</low>
+    <volume>4450300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-07T00:00:00</date>
+    <open>490.23</open>
+    <close>482.64</close>
+    <high>491.8</high>
+    <low>482.42</low>
+    <volume>4664300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-08T00:00:00</date>
+    <open>481.94</open>
+    <close>484.11</close>
+    <high>488.6</high>
+    <low>480</low>
+    <volume>3974900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-11T00:00:00</date>
+    <open>484.92</open>
+    <close>483.93</close>
+    <high>488.9</high>
+    <low>483.8</low>
+    <volume>3263400</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-12T00:00:00</date>
+    <open>483.85</open>
+    <close>481.78</close>
+    <high>486.36</high>
+    <low>480.28</low>
+    <volume>4181000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-13T00:00:00</date>
+    <open>484.69</open>
+    <close>478.99</close>
+    <high>485.5</high>
+    <low>477.02</low>
+    <volume>4662100</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-14T00:00:00</date>
+    <open>480.25</open>
+    <close>482.12</close>
+    <high>483.75</high>
+    <low>477.26</low>
+    <volume>4748900</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-15T00:00:00</date>
+    <open>482.64</open>
+    <close>480.3</close>
+    <high>484.11</high>
+    <low>479.84</low>
+    <volume>5190800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-18T00:00:00</date>
+    <open>482.51</open>
+    <close>462.8</close>
+    <high>482.74</high>
+    <low>460.72</low>
+    <volume>8016600</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-19T00:00:00</date>
+    <open>461.72</open>
+    <close>468.63</close>
+    <high>469.31</high>
+    <low>458.5</low>
+    <volume>6587000</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-20T00:00:00</date>
+    <open>470</open>
+    <close>462.9</close>
+    <high>471.5</high>
+    <low>462.33</low>
+    <volume>4367800</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-21T00:00:00</date>
+    <open>464.18</open>
+    <close>456.2</close>
+    <high>465.25</high>
+    <low>452.34</low>
+    <volume>6953300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-22T00:00:00</date>
+    <open>457.5</open>
+    <close>455.58</close>
+    <high>458.64</high>
+    <low>452.73</low>
+    <volume>3988300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-26T00:00:00</date>
+    <open>456.52</open>
+    <close>457.53</close>
+    <high>459.47</high>
+    <low>454.59</low>
+    <volume>2074300</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-27T00:00:00</date>
+    <open>460</open>
+    <close>468.03</close>
+    <high>468.08</high>
+    <low>459.1</low>
+    <volume>4231500</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-28T00:00:00</date>
+    <open>467.12</open>
+    <close>462.56</close>
+    <high>468.58</high>
+    <low>462.25</low>
+    <volume>3116200</volume>
+  </quote>
+  <quote type="EOD">
+    <date>2006-12-29T00:00:00</date>
+    <open>462.1</open>
+    <close>460.48</close>
+    <high>464.47</high>
+    <low>459.86</low>
+    <volume>2559200</volume>
+  </quote>
+</quotes>

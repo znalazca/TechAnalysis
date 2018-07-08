@@ -1,0 +1,144 @@
+﻿<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{CDF8689C-FF0B-41E4-8C03-4C96A7B4D116}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>valPresage</RootNamespace>
+    <AssemblyName>valPresage</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.Targets" />
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataServices.cs" />
+    <Compile Include="FormAbout.cs" />
+    <Compile Include="FormAbout.Designer.cs">
+      <DependentUpon>FormAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddCommonLayer.cs" />
+    <Compile Include="FormAddCommonLayer.Designer.cs">
+      <DependentUpon>FormAddCommonLayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChart.cs" />
+    <Compile Include="FormChart.Designer.cs">
+      <DependentUpon>FormChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCommonTools.cs" />
+    <Compile Include="FormCommonTools.Designer.cs">
+      <DependentUpon>FormCommonTools.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormConfig.cs" />
+    <Compile Include="FormConfig.Designer.cs">
+      <DependentUpon>FormConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormConfigTools.cs" />
+    <Compile Include="FormConfigTools.Designer.cs">
+      <DependentUpon>FormConfigTools.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDefaultDataSource.cs" />
+    <Compile Include="FormDefaultDataSource.Designer.cs">
+      <DependentUpon>FormDefaultDataSource.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHttp.cs" />
+    <Compile Include="FormHttp.Designer.cs">
+      <DependentUpon>FormHttp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSymbols.cs" />
+    <Compile Include="FormSymbols.Designer.cs">
+      <DependentUpon>FormSymbols.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GraphicsServices.cs" />
+    <Compile Include="MainForm.cs" />
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormAbout.resx">
+      <DependentUpon>FormAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddCommonLayer.resx">
+      <DependentUpon>FormAddCommonLayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChart.resx">
+      <DependentUpon>FormChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCommonTools.resx">
+      <DependentUpon>FormCommonTools.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConfig.resx">
+      <DependentUpon>FormConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConfigTools.resx">
+      <DependentUpon>FormConfigTools.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDefaultDataSource.resx">
+      <DependentUpon>FormDefaultDataSource.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHttp.resx">
+      <DependentUpon>FormHttp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSymbols.resx">
+      <DependentUpon>FormSymbols.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <Content Include="valPresage.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataInterface\DataInterface.csproj">
+      <Project>{960FB1F5-15A9-48E7-88FE-21FC99D5FC82}</Project>
+      <Name>DataInterface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataProvider\DataProvider.csproj">
+      <Project>{4E1F5D9A-90A5-47CA-AE07-869868AAAC64}</Project>
+      <Name>DataProvider</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GraphicsInterface\GraphicsInterface.csproj">
+      <Project>{DED0BC7E-636E-4E31-8F82-7692AAF0A49F}</Project>
+      <Name>GraphicsInterface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GraphicsProvider\GraphicsProvider.csproj">
+      <Project>{FF1D8967-0473-45E0-AD25-2220C02153AF}</Project>
+      <Name>GraphicsProvider</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HttpProvider\HttpProvider.csproj">
+      <Project>{CC68398D-838C-446E-AEAC-AE4AB22CCB30}</Project>
+      <Name>HttpProvider</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>
